@@ -14,6 +14,18 @@ const photos = [
     title: "Argonath Logo",
     description: "Brass 40mm round coin with custom logo",
   },
+  {
+    id: 3,
+    src: "assets/StarWarsCoin-A.jpg",
+    title: "Darth Vader with StarWars",
+    description: "Brass 40mm round coin with custom design",
+  },
+  {
+    id: 4,
+    src: "assets/StarWarsCoin-B.jpg",
+    title: "StarWars Aztec Calendar",
+    description: "Brass 40mm round coin with custom design",
+  },
   // Add more photos here...
 ];
 
