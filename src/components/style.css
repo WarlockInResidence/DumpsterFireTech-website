@@ -1,0 +1,10 @@
+.photo-wall img {
+    width: 100px;
+    height: 100px;
+}
+
+.photo-wall {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
